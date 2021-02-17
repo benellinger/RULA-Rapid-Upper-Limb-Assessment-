@@ -1,0 +1,7 @@
+2018-05-04
++ batch process
++ file output
++ app won't close
++ changed leg_score question
++ bug fixes: body rotation, body tilt, head rotation, head tilt
+- right upper_body Bug (reason unknown)

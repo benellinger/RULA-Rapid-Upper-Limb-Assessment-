@@ -1,0 +1,36 @@
+MUST
+=======
+logging
+UI
+pdf report
+sitting condition upper body
+check rotation + Tilt for B-score
+mr3.12 compatibility
+
+
+OPTIONAL
+========
+batch process
+login
+online fill of table
+retrun info in report
+
+
+DONE
+=======
+importing data
+main functions:
+  shoulder
+  lower arm
+  wrist
+  head
+  upper body segment
+  leg
+  suppination lower Arm
+process bar
+
+TO CLARIFY
+=======
+winkel grenzen; z.b. kopfneigung +/-1 Grad --> MM vermutlich genauer als 2D-video
+
++/-1 Grad-->MM
