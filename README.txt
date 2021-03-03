@@ -1,6 +1,6 @@
 This is a python application.
 
-CAUTION: This a beta version in early development. Please report bugs and unexpected behaviour to b.ellinger@velamed.com
+CAUTION: This a alpha version in early development. Please report bugs and unexpected behaviour to b.ellinger@velamed.com
 
 ######################################
 
@@ -11,4 +11,3 @@ The script will automatically load the data inside the folder "data/". Please ma
 This application runs on WINDOWS-64bit systems only.
 
 This application is made for original German data files, exported from Noraxons MR3 software. The current compatible version of mr3 is mr3.10.64. For future versions an implementation of mr3.12 data format is planned.
-
